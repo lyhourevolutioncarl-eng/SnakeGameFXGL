@@ -1,3 +1,7 @@
+"HelloWorld"
+Team Members: Lyhour Chum, Soveacha Song, Saory Soy
+
+
 Snake Game Description:
 This project is a 2D Snake game developed using JavaFX and the FXGL. The game runs on a grid system where the player controls a snake that moves continuously in one direction.
 The player uses the arrow keys to change the direction of the snake. The main goal is to eat the red food that appears randomly on the screen. Every time the snake eats food, its length increases and the player’s score goes up.
