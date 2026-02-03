@@ -1,6 +1,7 @@
-"HelloWorld"
-Team Members: Lyhour Chum, Soveacha Song, Saory Soy
+Group Name: HelloWorld
 
+Team Members:
+Lyhour Chum, Soveacha Song, Saory Soy
 
 Snake Game Description:
 This project is a 2D Snake game developed using JavaFX and the FXGL. The game runs on a grid system where the player controls a snake that moves continuously in one direction.
