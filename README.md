@@ -20,3 +20,8 @@ A score is kept for each player.
 Collision detection is performed.
 Ability to restart the game from the point of the last collision.
 Simple and user-friendly design
+
+AI Assistance
+
+AI tools were used to help write parts of the code.  
+The team analyzed, understood, and customized the code, and implemented all game design, structure, and integration ourselves.
